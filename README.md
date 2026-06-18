@@ -41,7 +41,8 @@ Open the app via terminal:
 ```bash
 open OnlyOneFriend.app
 ```
-Or double-click the compiled `OnlyOneFriend.app` bundle in Finder.
+Or double-click the compiled `OnlyOneFriend.app` bundle in Finder. 
+( or you can directly Install the DMG File )  
 
 ---
 
@@ -57,6 +58,9 @@ Or double-click the compiled `OnlyOneFriend.app` bundle in Finder.
 5. **Enjoy**: The page will automatically lock onto that single thread, hiding all other menus!
 
 ---
+
+## Support 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tanbinhasann" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## Author & Copyright
 
