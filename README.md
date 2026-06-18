@@ -60,7 +60,7 @@ Or double-click the compiled `OnlyOneFriend.app` bundle in Finder.
 ---
 
 ## Support 
-https://www.patreon.com/tanbinhasann/posts/buy-me-coffee-161456760?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+**[Patreon](https://www.patreon.com/tanbinhasann/posts/buy-me-coffee-161456760?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)**.
 
 ## Author & Copyright
 
